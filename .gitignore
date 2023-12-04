@@ -1,0 +1,15 @@
+/unicodrop/public/hot
+/unicodrop/public/storage
+/unicodrop/storage/*.key
+/unicodrop/vendor
+/unicodrop/.env
+/unicodrop/.phpunit.result.cache
+/unicodrop/Homestead.json
+/unicodrop/Homestead.yaml
+/unicodrop/npm-debug.log
+/unicodrop/yarn-error.log
+/.idea
+/.vscode
+/.docker
+/data/mysql/
+/data/db/
