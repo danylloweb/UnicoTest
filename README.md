@@ -12,13 +12,12 @@ Depois disso no terminal deve aparecer um link http://localhost
 Agora depois de abrir o navegador você verá um formulario onde deve se cadastrar.
 Qualquer duvidas me procura. obg!
 
-
-Se houver problemas com AuthSecrets do passport no Linux use commands:
+Depois disso para rodar o front
 
 ```bash
-cd Om30/storage/
-sudo chown www-data:www-data oauth-public.key
-sudo chmod 600 oauth-public.key
+cd unicodrop/web/Unicodrop/
+npm install 
+npm run dev
 ```
 
 ## Introdução
